@@ -1,0 +1,108 @@
+Sharath R  
+Junior Data Scientist  
+
+Phone: +91-7558926612  
+Email: sharathkrishna2610@gmail.com  
+LinkedIn: https://www.linkedin.com/in/sharath-04-r  
+
+--------------------------------------------
+
+ABOUT SHARATH
+
+Sharath is a Junior Data Scientist with hands-on experience in Python, Machine Learning, and Generative AI applications. He specializes in building end-to-end AI solutions including predictive modeling, RAG-based systems, and interactive Streamlit web applications.
+
+He is a 2024 B.Tech graduate in Computer Science and is currently seeking full-time roles such as Junior Data Scientist, AI Engineer, or ML Engineer (remote, hybrid, or Bangalore-based).
+
+--------------------------------------------
+
+TECHNICAL SKILLS
+
+Programming: Python, SQL  
+
+Machine Learning & Deep Learning:
+Scikit-learn, TensorFlow, PyTorch, CNN, Logistic Regression, Random Forest  
+
+Generative AI:
+LLMs, Transformer Architecture, Embeddings, Prompt Engineering, RAG Systems, Vector Databases  
+
+Data Processing & Analysis:
+Pandas, NumPy, Exploratory Data Analysis (EDA), Text Processing, MFCC Feature Extraction  
+
+Tools & Platforms:
+Streamlit, Power BI, Git, VS Code, Groq API, ChromaDB  
+
+--------------------------------------------
+
+PROFESSIONAL EXPERIENCE
+
+Data Science Intern – AI Variant (Remote)  
+October 2024 – April 2025 (Completed)
+
+Responsibilities and Contributions:
+
+• Built machine learning models for Bankruptcy Prevention and CO Emission Prediction  
+• Performed data cleaning, feature engineering, and model evaluation  
+• Created Power BI dashboards to deliver business insights  
+• Deployed machine learning models using Streamlit  
+
+Sharath has completed this internship and gained practical industry-level ML implementation experience.
+
+--------------------------------------------
+
+PROJECTS
+
+AI Resume Matcher  
+Technologies: Python, Streamlit, Groq API, Embeddings  
+
+• Built an AI system that matches resumes with job descriptions  
+• Used embeddings to compute semantic similarity  
+• Implemented LLM-based analysis to generate strengths and missing skills  
+• Designed an interactive Streamlit app for recruiters  
+
+--------------------------------------------
+
+Bankruptcy Prevention  
+
+• Developed a classification model to predict bankruptcy risk  
+• Used financial ratios as features  
+• Applied algorithms such as Logistic Regression and Random Forest  
+• Evaluated model using accuracy, precision, and recall metrics  
+
+--------------------------------------------
+
+CO Emission Prediction  
+
+• Built a regression model to predict CO emissions  
+• Identified key features such as engine size and fuel type  
+• Developed a Streamlit application for real-time predictions  
+
+--------------------------------------------
+
+EDUCATION
+
+B.Tech in Computer Science – Graduated in 2024  
+LBS College of Engineering, Kasaragod  
+CGPA: 6.54 / 10  
+
+--------------------------------------------
+
+EMPLOYMENT STATUS
+
+Sharath has completed his B.Tech in 2024 and completed a Data Science Internship from October 2024 to April 2025.  
+He is currently seeking full-time opportunities in Data Science, AI Engineering, or Machine Learning roles.
+
+--------------------------------------------
+
+FAQ FOR AI CHATBOT
+
+Q: What kind of roles is Sharath looking for?  
+A: Junior Data Scientist, AI Engineer, or ML Engineer roles (remote, hybrid, or Bangalore-based).
+
+Q: What are Sharath’s strengths?  
+A: Strong problem-solving ability, hands-on ML implementation, practical deployment skills, and fast learning in Generative AI.
+
+Q: Does Sharath have deployment experience?  
+A: Yes. He has deployed machine learning models using Streamlit and integrated APIs like Groq.
+
+Q: Is Sharath experienced in Generative AI?  
+A: Yes. He has worked with embeddings, RAG systems, vector databases, and LLM-based resume analysis systems.
